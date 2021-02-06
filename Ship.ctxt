@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Ship
+comment1.params=name\ size
+comment1.target=Ship(java.lang.String,\ int)
+comment2.params=
+comment2.target=java.util.ArrayList\ getLocations()
+comment3.params=
+comment3.target=int\ getSize()
+comment4.params=locationToSet
+comment4.target=void\ setLocation(java.util.ArrayList)
+comment5.params=guess
+comment5.target=java.lang.String\ check(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getName()
+numComments=7
